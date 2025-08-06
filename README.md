@@ -13,6 +13,6 @@ If you have already clicked on a link or entered any information, you should cha
 This email is likely a **phishing scam**. Here's what you should do and how to tell it's fake:
 
 * Do not click on any links in the email. Clicking the links could take you to a fake website designed to steal your information or download malware.
-*  Go directly to the official Microsoft website for this given email sample (https://www.google.com/search?q=account.microsoft.com) by typing the address into your browser's address bar yourself. Log in to your account and check your recent activity.
+*  Go directly to the official Microsoft website for this given email sample by typing the address into your browser's address bar yourself. Log in to your account and check your recent activity.
 *  If you see any suspicious activity, immediately change your password.
 *  After securing your account, delete the email.
