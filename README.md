@@ -1,4 +1,4 @@
-# Elevtaeday_2
+# Elevateday_2
 
 So, I completed my task and searched for the signs in this given sample used, which can help us signify that email recieved has some vulnerabilities and discrepancies 
 which will help the reciever to recognise the phishing email in easy steps -
